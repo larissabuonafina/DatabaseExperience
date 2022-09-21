@@ -5,9 +5,7 @@ Durante o bootcamp pude aprender mais sobre banco de dados, modelagem relacional
 
 Como projeto, foi solicitada a construção de modelos relacionais e físicos para dois cenários:
 
-Eccomerce e oficina
-
-Resolvi dividi-los em duas pastas que contém os projetos relacionados a cada um.
+Ecommerce e oficina
 
 Projetos:
 Refinando um Projeto Conceitual de Banco de Dados – ECOMMERCE
