@@ -1,0 +1,12 @@
+Banco de Dados pode ser simplificadamente definido como um conjunto de informações, tais informações podem ser oganizadas de for relacional ou não. 
+Daí, conforme os próprios nomes sugerem, surgem os bancos relacionais e os não relacionais.
+
+Banco de dados relacionais: Dados armazenados em forma de tabelas que contém tuplas e atributos.
+Conceitos importantes:
+ENTIDADES - Tabelas do banco de dados;
+ATRIBUTOS - Campos das entidades;
+DOMÍNIOS - Cada valor armazenado em um atributo.
+
+A linguagem SQL  é a linguagem utilizada para consultas em banco de dados.
+
+Banco de dados não relacionais: De forma contrária aos relacionais, os dados não são armazenados em tabelas. Os dados não recisam ser estruturados e pré definidos.
